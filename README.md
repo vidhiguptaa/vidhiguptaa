@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIDHI</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhiguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="vidhiguptaa" /> </p>
 
-- 🌱 I’m currently learning **DSA,Node.js**
+- 🌱 I’m currently learning **DSA,Node.js,C++**
 
 - 📫 How to reach me **vidhigupta0702@gmail.com**
 
