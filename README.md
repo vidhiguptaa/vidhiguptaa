@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **production-grade iOS applications and real-time social networking platforms.**
 
-- 🌱 I’m currently learning **clean Architecture, Combine, advanced SwiftUI animations, and scalable iOS system design.**
+- 🌱 I’m currently learning **clean Architecture, Combine, and scalable iOS system design.**
 
 - 👯 I’m looking to collaborate on **iOS apps, SwiftUI projects, Firebase integrations, and real-time mobile applications.**
 
